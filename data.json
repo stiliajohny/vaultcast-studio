@@ -1,6 +1,6 @@
 {
-  "deepseekApiKey": "sk-2a463ea327874bd0ac369a4d0e542502",
-  "deepgramApiKey": "137dd0dbdf467d3d95db21b47136f958073a7088",
+  "deepseekApiKey": "sk-deepseek-fake-placeholder-key",
+  "deepgramApiKey": "dg_deepgram_fake_placeholder_key",
   "prompt": "Create a plain text podcast script that will be sent directly to Deepgram text-to-speech. Begin the script with: Welcome to your weekly podcast. The podcast should be around 3 minutes long and be around 500 words maximum. Use a natural narration pace of about 150 words per minute, so write approximately 450 words. The script must contain only the words one narrator should speak aloud. Do not include stage directions, sound cues, music notes, speaker labels, timestamps, headings, markdown, brackets, bullet points, or instructions such as intro music, pause, fade in, or fade out. Keep the episode faithful to the source document, explain the main ideas clearly, use natural spoken transitions, and return plain text only.",
   "deepseekModel": "deepseek-chat",
   "deepgramModel": "aura-2-thalia-en",
