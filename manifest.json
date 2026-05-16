@@ -1,0 +1,9 @@
+{
+  "id": "vaultcast-studio",
+  "name": "VaultCast Studio",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Create narrated podcast audio from the current note using DeepSeek and text-to-speech.",
+  "author": "John Stilia",
+  "isDesktopOnly": false
+}
